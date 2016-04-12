@@ -7,7 +7,7 @@ Python Project Developed by Amol S Vaze - Using Skype4py Skype API.
 
 	•This is a solution to test VOIP calls for Skype application using Skype4Py.
 	•Test cases have been included in a separate file.
-	•Sources can be found at:- [Solution\Skype4Py\unittests]
+	•Sources can be found at:- [Skype4Py\unittests\solution.py]
 	•Brief description of Skype4Py:-
 		oProject uses Skype4Py API as a part of resource.
 		oSkype4Py is a BSD-licensed open source Python wrapper used for project. It works on Windows, Linux and MacOS X so your scripts will work on all these platforms without any change. Its API is very similar to Skype4COM making it also suitable for rapid prototyping.
